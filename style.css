@@ -1,0 +1,54 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Rowdies', cursive;
+font-family: 'Source Serif 4', sans-serif;
+}
+.flexible-container{
+    display: flex;
+    
+}
+.half-width{
+    width: 274px;
+    margin-left: 6px;
+    margin-right: 19px;
+    padding: 16px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 9%;
+}
+.half-width img{
+    margin-top: -20px;
+    margin-bottom: 4px;
+    margin-left: -16px;
+    width: 112%;
+    border-radius: 40px;
+}
+
+.button1 {
+    background-color: rgb(252, 212, 138);
+}
+
+.button1 {
+    border: none;
+    color: white;
+    padding:15px 95px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    margin: 10px ;
+    border-radius: 22px;
+  }
+
+.button2 {
+    background-color: rgb(155, 152, 10);
+}
+
+.button2{
+    border: none;
+    color: #fff;
+    padding: 15px 103px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    margin: 10px;
+    border-radius: 22px;
+}
