@@ -26,6 +26,9 @@ font-family: 'Source Serif 4', sans-serif;
 .button1 {
     background-color: rgb(252, 212, 138);
 }
+.button1:hover{
+    background-color: orangered;
+}
 
 .button1 {
     border: none;
@@ -42,6 +45,9 @@ font-family: 'Source Serif 4', sans-serif;
     background-color: rgb(155, 152, 10);
 }
 
+.button2:hover{
+    background-color: orangered;
+}
 .button2{
     border: none;
     color: #fff;
